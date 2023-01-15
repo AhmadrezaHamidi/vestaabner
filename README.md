@@ -1,7 +1,7 @@
 
-### Available for a  remote job:
+<!-- ### Available for a  remote job:
 [![Linkedin Badge](https://img.shields.io/badge/-ahmadHamidi-0072b1?style=flat&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/ahmad-hamidi-03b0381bb//)](https://www.linkedin.com/in/ahmad-hamidi-03b0381bb/) 
-
+ -->
 
  
 ```javascript
