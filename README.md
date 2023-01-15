@@ -6,13 +6,13 @@
  
 ```javascript
 var aboutMe = { 
-    name: "vestaabner",
+    name: "Heey",
     profession: "Backend Developer",
     location: "Iran",
     email : "vestaabner@gmail.com" ,
     stack: {
         backEnd: {
-        languages: [C#, python, SQL],
+        languages: [C#, SQL],
         frameworks: [Asp .netCore],
         databases: [MongoDB , sqlserver,redis]
     }
