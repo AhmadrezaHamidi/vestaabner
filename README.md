@@ -13,7 +13,7 @@ var aboutMe = {
     stack: {
         backEnd: {
         languages: [C#, SQL],
-        frameworks: [Asp .netCore],
+        frameworks: [.netCore],
         databases: [MongoDB , sqlserver,redis]
     }
     tools: [Git, GitHub, Docker],
