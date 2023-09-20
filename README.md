@@ -9,14 +9,14 @@ var aboutMe = {
     name: "Ahmad",
     profession: "Backend Developer",
     location: "Iran",
-    email : "vestaabner@gmail.com" ,
+    email: "vestaabner@gmail.com" ,
     stack: {
         backEnd: {
         languages: [C#, SQL],
         frameworks: [.netCore],
-        databases: [MongoDB , sqlserver,redis]
-    }
+        databases: [MongoDB, sqlserver, redis]
+    },
     tools: [Git, GitHub, Docker],
-    Systems: [ Windows ,  Linux , Macos]
+    Systems: [Windows, Linux, Macos]
 }
 ``` 
